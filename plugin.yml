@@ -1,0 +1,9 @@
+name: Casino
+main: net.data.casino.Main
+version: 1.0.0
+commands:
+  croupier:
+  bet:
+  setcroupierloc:
+  setcroupierloc-two:
+  setcroupierloc-three:
